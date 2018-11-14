@@ -11,7 +11,9 @@ WireGuard 的立意是创建「 快速、现代、安全的 VPN 隧道 」。
 > 1. [用 Linode 主机搭建 WireGuard 网络](1.用%20Linode%20主机搭建%20WireGuard%20网络.md) ，实例介绍 Linode 服务器与本地 Ubuntu 电脑组建 WireGuard 网络的步骤；
 > 2. [用 wg-quick 调用 wg0.conf 管理 WireGuard](2.用%20wg-quick%20调用%20wg0.conf%20管理%20WireGuard.md) ，如何配置 wg0.conf 的各项参数；
 > 3. [用 wg 在命令行运行 WireGuard](3.用%20wg%20在命令行运行%20WireGuard.md) ，通过命令行使用 WireGuard 的方法；
-> 4. [与配置 WireGuard 有关的 Ubuntu 命令](4.与配置%20WireGuard%20有关的%20Ubuntu%20命令.md)，介绍一些 Ubuntu 命令。
+> 4. [与配置 WireGuard 有关的 Ubuntu 命令](4.与配置%20WireGuard%20有关的%20Ubuntu%20命令.md)，介绍一些 Ubuntu 命令；
+> 5. [多平台访问  WireGuard](5.多平台访问  WireGuard) ，介绍不同平台如何使用  WireGuard ；
+> 6. [付费测试  WireGuard](6.付费测试 WireGuard) ，帮你试用  WireGuard 。
 
 ## 1. WireGuard 组网的三个主要构成
 
