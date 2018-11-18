@@ -6,7 +6,7 @@ WireGuard 的立意是创建「 快速、现代、安全的 VPN 隧道 」。
 
 通过 WireGuard 组建起来的 VPN ，借助其中一台可以科学上网的电脑，能使 VPN 内所有其它电脑都具有科学上网的能力。
 
-本文简要介绍 WireGuard 的组网要点及步骤，其它四篇介绍相关的操作方法。
+本文简要介绍 WireGuard 的组网要点及步骤，其它六篇介绍相关的操作方法。
 
 > 1. [用 Linode 主机搭建 WireGuard 网络](1.用%20Linode%20主机搭建%20WireGuard%20网络.md) ，实例介绍 Linode 服务器与本地 Ubuntu 电脑组建 WireGuard 网络的步骤；
 > 2. [用 wg-quick 调用 wg0.conf 管理 WireGuard](2.用%20wg-quick%20调用%20wg0.conf%20管理%20WireGuard.md) ，如何配置 wg0.conf 的各项参数；
